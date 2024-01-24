@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sample.app"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="10000"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+13        android:anyDensity="true"
+13-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+16        android:resizeable="true"
+16-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+17        android:smallScreens="true"
+17-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+18        android:xlargeScreens="true" />
+18-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+20-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+21    <uses-permission android:name="android.permission.READ_CONTACTS" />
+21-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:13:5-72
+21-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:13:22-69
+22    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+22-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:14:5-73
+22-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:14:22-70
+23    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+23-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:15:5-71
+23-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:15:22-68
+24
+25    <application
+25-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:hardwareAccelerated="true"
+28-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+29        android:icon="@mipmap/ic_launcher"
+29-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-87
+30        android:label="@string/app_name"
+30-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:88-120
+31        android:supportsRtl="true"
+31-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:121-147
+32        android:testOnly="true" >
+33        <activity
+33-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+34            android:name="com.sample.app.MainActivity"
+34-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:229-256
+35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+35-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-135
+36            android:exported="true"
+36-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:136-159
+37            android:label="@string/activity_name"
+37-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:160-197
+38            android:launchMode="singleTop"
+38-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:198-228
+39            android:theme="@style/Theme.AppCompat.NoActionBar"
+39-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:257-307
+40            android:windowSoftInputMode="adjustResize" >
+40-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:308-350
+41            <intent-filter android:label="@string/launcher_name" >
+41-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+41-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+42                <action android:name="android.intent.action.MAIN" />
+42-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+42-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+44-->/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+45            </intent-filter>
+46        </activity>
+47    </application>
+48
+49</manifest>

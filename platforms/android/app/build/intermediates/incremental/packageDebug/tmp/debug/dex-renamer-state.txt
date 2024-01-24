@@ -1,0 +1,19 @@
+#Sat Jan 20 10:47:35 IST 2024
+path.4=10/classes.dex
+path.3=0/classes.dex
+path.2=9/classes.dex
+path.1=7/classes.dex
+path.5=14/classes.dex
+path.0=classes.dex
+base.4=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
+base.3=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeLibDexDebug/9/classes.dex
+base.1=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeLibDexDebug/7/classes.dex
+base.0=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
