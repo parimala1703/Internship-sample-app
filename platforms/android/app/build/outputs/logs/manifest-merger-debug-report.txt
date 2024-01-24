@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [:CordovaLib] /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/CordovaLib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/mdw/.gradle/caches/transforms-3/270ea432aebb419b590c0b460bf87057/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/mdw/.gradle/caches/transforms-3/82a88cf6aeccb402778ad7b18c80c222/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/mdw/.gradle/caches/transforms-3/97ec03e4b0fb46614e95ebc65f6d012e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/mdw/.gradle/caches/transforms-3/d91b769c3d08b6ac75ffc44e6a18e2bb/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mdw/.gradle/caches/transforms-3/1cdb591a56d7a72d38b1f4cd6b2c2344/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.4.0] /home/mdw/.gradle/caches/transforms-3/8ae187a57a85ad331e483278eae79273/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdw/.gradle/caches/transforms-3/97d1540ff705e5f7ef947de0a565382f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mdw/.gradle/caches/transforms-3/58a131f7e88af5f5eec69a23920a0a34/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdw/.gradle/caches/transforms-3/7b4e72affeb6b4bf9e6febbf12538c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdw/.gradle/caches/transforms-3/be6fde8656933106516e37cd467650e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mdw/.gradle/caches/transforms-3/be0e3e57c55f1b52b792ca1f7364e7ae/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdw/.gradle/caches/transforms-3/e166a4a7dfba779deafbdc0d81f7b731/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/mdw/.gradle/caches/transforms-3/7dade667536ede3419b275664ef756a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/mdw/.gradle/caches/transforms-3/63d48341d5947187f36439ea5df0cccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/mdw/.gradle/caches/transforms-3/ec5ae70622cc839c585a6983ef10d3c0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/mdw/.gradle/caches/transforms-3/3bef83b8c79bd1928f833b6d7ee238e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mdw/.gradle/caches/transforms-3/6a0f385c9a156a15f30990a376ffbd4f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mdw/.gradle/caches/transforms-3/4913de58926111c071b9abbb5b50dcc6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mdw/.gradle/caches/transforms-3/50da8bd8b5c77309aae9cd027c8090cf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/mdw/.gradle/caches/transforms-3/3be2e2ff6b8b720147499ce611473869/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdw/.gradle/caches/transforms-3/9db892c71e969472cd734c44ca94a829/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdw/.gradle/caches/transforms-3/251326d51f205d2a7732924bc83708fc/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdw/.gradle/caches/transforms-3/efadb3930f2613e7765ffa035eb03333/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:102-126
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:127-185
+	android:versionCode
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-12:19
+MERGED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mdw/.gradle/caches/transforms-3/6a0f385c9a156a15f30990a376ffbd4f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mdw/.gradle/caches/transforms-3/6a0f385c9a156a15f30990a376ffbd4f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:121-147
+	android:label
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:88-120
+	android:hardwareAccelerated
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:5:53-87
+activity#com.sample.app.MainActivity
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:160-197
+	android:launchMode
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:198-228
+	android:windowSoftInputMode
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:308-350
+	android:exported
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:136-159
+	android:configChanges
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:19-135
+	android:theme
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:257-307
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:6:229-256
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml:15:22-68
+uses-sdk
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+MERGED from [:CordovaLib] /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/CordovaLib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/CordovaLib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/mdw/.gradle/caches/transforms-3/270ea432aebb419b590c0b460bf87057/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/mdw/.gradle/caches/transforms-3/270ea432aebb419b590c0b460bf87057/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/mdw/.gradle/caches/transforms-3/82a88cf6aeccb402778ad7b18c80c222/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/mdw/.gradle/caches/transforms-3/82a88cf6aeccb402778ad7b18c80c222/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/mdw/.gradle/caches/transforms-3/97ec03e4b0fb46614e95ebc65f6d012e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/mdw/.gradle/caches/transforms-3/97ec03e4b0fb46614e95ebc65f6d012e/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/mdw/.gradle/caches/transforms-3/d91b769c3d08b6ac75ffc44e6a18e2bb/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/mdw/.gradle/caches/transforms-3/d91b769c3d08b6ac75ffc44e6a18e2bb/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mdw/.gradle/caches/transforms-3/1cdb591a56d7a72d38b1f4cd6b2c2344/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mdw/.gradle/caches/transforms-3/1cdb591a56d7a72d38b1f4cd6b2c2344/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] /home/mdw/.gradle/caches/transforms-3/8ae187a57a85ad331e483278eae79273/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /home/mdw/.gradle/caches/transforms-3/8ae187a57a85ad331e483278eae79273/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdw/.gradle/caches/transforms-3/97d1540ff705e5f7ef947de0a565382f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mdw/.gradle/caches/transforms-3/97d1540ff705e5f7ef947de0a565382f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mdw/.gradle/caches/transforms-3/58a131f7e88af5f5eec69a23920a0a34/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mdw/.gradle/caches/transforms-3/58a131f7e88af5f5eec69a23920a0a34/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdw/.gradle/caches/transforms-3/7b4e72affeb6b4bf9e6febbf12538c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mdw/.gradle/caches/transforms-3/7b4e72affeb6b4bf9e6febbf12538c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdw/.gradle/caches/transforms-3/be6fde8656933106516e37cd467650e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mdw/.gradle/caches/transforms-3/be6fde8656933106516e37cd467650e9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/mdw/.gradle/caches/transforms-3/be0e3e57c55f1b52b792ca1f7364e7ae/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mdw/.gradle/caches/transforms-3/be0e3e57c55f1b52b792ca1f7364e7ae/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/mdw/.gradle/caches/transforms-3/cac8a9c2c489f91f573408ca518911ef/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdw/.gradle/caches/transforms-3/e166a4a7dfba779deafbdc0d81f7b731/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mdw/.gradle/caches/transforms-3/e166a4a7dfba779deafbdc0d81f7b731/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/mdw/.gradle/caches/transforms-3/7dade667536ede3419b275664ef756a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/mdw/.gradle/caches/transforms-3/7dade667536ede3419b275664ef756a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/mdw/.gradle/caches/transforms-3/63d48341d5947187f36439ea5df0cccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/mdw/.gradle/caches/transforms-3/63d48341d5947187f36439ea5df0cccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/mdw/.gradle/caches/transforms-3/ec5ae70622cc839c585a6983ef10d3c0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/mdw/.gradle/caches/transforms-3/ec5ae70622cc839c585a6983ef10d3c0/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/mdw/.gradle/caches/transforms-3/3bef83b8c79bd1928f833b6d7ee238e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/mdw/.gradle/caches/transforms-3/3bef83b8c79bd1928f833b6d7ee238e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mdw/.gradle/caches/transforms-3/6a0f385c9a156a15f30990a376ffbd4f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mdw/.gradle/caches/transforms-3/6a0f385c9a156a15f30990a376ffbd4f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mdw/.gradle/caches/transforms-3/4913de58926111c071b9abbb5b50dcc6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mdw/.gradle/caches/transforms-3/4913de58926111c071b9abbb5b50dcc6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mdw/.gradle/caches/transforms-3/50da8bd8b5c77309aae9cd027c8090cf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mdw/.gradle/caches/transforms-3/50da8bd8b5c77309aae9cd027c8090cf/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/mdw/.gradle/caches/transforms-3/3be2e2ff6b8b720147499ce611473869/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/mdw/.gradle/caches/transforms-3/3be2e2ff6b8b720147499ce611473869/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdw/.gradle/caches/transforms-3/9db892c71e969472cd734c44ca94a829/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mdw/.gradle/caches/transforms-3/9db892c71e969472cd734c44ca94a829/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdw/.gradle/caches/transforms-3/251326d51f205d2a7732924bc83708fc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mdw/.gradle/caches/transforms-3/251326d51f205d2a7732924bc83708fc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdw/.gradle/caches/transforms-3/efadb3930f2613e7765ffa035eb03333/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/mdw/.gradle/caches/transforms-3/efadb3930f2613e7765ffa035eb03333/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/src/main/AndroidManifest.xml
