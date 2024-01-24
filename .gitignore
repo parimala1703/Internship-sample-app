@@ -25,3 +25,10 @@ node_modules/
 /plugins/
 /platforms/browser
 /platforms/ios
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+.gradle
+*.iml
+/plugins/browser.json
+package-lock.json
