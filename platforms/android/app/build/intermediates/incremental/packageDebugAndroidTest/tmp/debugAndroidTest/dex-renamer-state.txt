@@ -1,0 +1,7 @@
+#Fri Jan 19 15:04:54 IST 2024
+base.1=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/7/classes.dex
+path.1=7/classes.dex
+base.0=/home/mdw/Documents/Git/Internship/sampleApp/platforms/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
